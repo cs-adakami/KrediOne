@@ -19,7 +19,7 @@ export default function Features() {
           </div>
           <h2 id="features-title" className="section-title">Mengapa Memilih Layanan Kami?</h2>
           <p className="section-desc">
-            Kami berkomitmen untuk memberikan pengalaman layanan yang terbaik, transparan, dan bertanggung jawab.
+            Kami berkomitmen untuk memberikan layanan bantuan yang terbaik, responsif, dan bertanggung jawab.
           </p>
         </div>
 

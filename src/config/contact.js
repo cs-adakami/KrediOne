@@ -1,52 +1,52 @@
 export const contactConfig = {
   whatsappNumber: '62812345678',
-  whatsappMessage: 'Halo KrediOne, saya membutuhkan informasi lebih lanjut.',
+  whatsappMessage: 'Halo KrediOne, saya membutuhkan bantuan.',
   displayPhone: '+62 812 345 678',
   email: 'bantuan@kredione.com',
   serviceName: 'KrediOne',
-  serviceFullName: 'Layanan Bantuan KrediOne',
+  serviceFullName: 'Pusat Layanan Bantuan KrediOne',
   pageTitle: 'Pusat Layanan Bantuan KrediOne',
-  tagline: 'Informasi layanan pinjaman yang transparan dan terpercaya',
-  description: 'Kami hadir untuk memberikan informasi lengkap mengenai produk pinjaman, panduan pengajuan, dan dukungan selama proses berlangsung.',
+  tagline: 'Pusat bantuan yang responsif dan terpercaya',
+  description: 'Kami hadir untuk membantu menjawab pertanyaan, memberikan informasi, dan mendukung kebutuhan Anda dengan layanan yang profesional.',
   operationalHours: 'Senin - Jumat, 08.00 - 17.00 WIB',
   address: 'Jakarta, Indonesia',
   stats: [
-    { value: '50.000+', label: 'Nasabah Terlayani' },
+    { value: '50.000+', label: 'Pengguna Terlayani' },
     { value: '4.8/5', label: 'Rating Kepuasan' },
     { value: '< 24 Jam', label: 'Waktu Respons' },
   ],
   services: [
     {
       icon: 'FileText',
-      title: 'Informasi Produk',
-      description: 'Temukan detail lengkap tentang produk pinjaman yang tersedia, syarat, dan ketentuan berlaku.',
+      title: 'Pusat Informasi',
+      description: 'Temukan informasi lengkap tentang layanan, produk, dan fitur yang tersedia untuk Anda.',
     },
     {
       icon: 'ClipboardList',
-      title: 'Panduan Pengajuan',
-      description: 'Langkah-langkah pengajuan pinjaman secara jelas dan mudah dipahami.',
+      title: 'Panduan Pengguna',
+      description: 'Panduan langkah demi langkah untuk menggunakan layanan dengan mudah dan efektif.',
     },
     {
       icon: 'Search',
-      title: 'Cek Status Permohonan',
-      description: 'Pantau perkembangan permohonan pinjaman Anda secara transparan.',
+      title: 'Cek Status',
+      description: 'Pantau status permintaan atau aktivitas Anda secara real-time dan transparan.',
     },
     {
       icon: 'HelpCircle',
-      title: 'Tanya Jawab',
-      description: 'Temukan jawaban atas pertanyaan umum seputar layanan pinjaman kami.',
+      title: 'Bantuan & FAQ',
+      description: 'Temukan jawaban atas pertanyaan umum atau hubungi tim kami untuk bantuan lebih lanjut.',
     },
   ],
   features: [
     {
       icon: 'Shield',
-      title: 'Informasi Transparan',
-      description: 'Seluruh informasi produk disampaikan secara jelas, termasuk suku bunga, biaya, dan ketentuan.',
+      title: 'Informasi Jelas',
+      description: 'Seluruh informasi disampaikan secara transparan dan mudah dipahami.',
     },
     {
       icon: 'Clock',
-      title: 'Dukungan Responsif',
-      description: 'Tim layanan kami siap memberikan respons yang cepat dan informasi yang akurat.',
+      title: 'Respon Cepat',
+      description: 'Tim layanan kami siap memberikan respons yang cepat dan solusi yang tepat.',
     },
     {
       icon: 'Award',
@@ -56,24 +56,24 @@ export const contactConfig = {
   ],
   faqs: [
     {
-      question: 'Apa saja produk pinjaman yang tersedia?',
-      answer: 'KrediOne menyediakan berbagai produk pinjaman yang dapat disesuaikan dengan kebutuhan Anda. Silakan hubungi tim layanan kami untuk mendapatkan informasi lengkap mengenai pilihan produk, persyaratan, dan ketentuan yang berlaku.',
+      question: 'Bagaimana cara menghubungi tim bantuan?',
+      answer: 'Anda dapat menghubungi tim bantuan kami melalui WhatsApp atau email pada jam operasional. Tim kami siap membantu menjawab pertanyaan dan memberikan solusi untuk kebutuhan Anda.',
     },
     {
-      question: 'Bagaimana cara mengajukan pinjaman?',
-      answer: 'Proses pengajuan dapat dilakukan melalui aplikasi atau kantor layanan kami. Tim kami akan memandu Anda melalui setiap langkah, mulai dari kelengkapan dokumen hingga keputusan permohonan.',
+      question: 'Berapa lama waktu respons untuk pertanyaan saya?',
+      answer: 'Kami berusaha merespons setiap pertanyaan dalam waktu kurang dari 24 jam pada hari kerja. Untuk pertanyaan yang memerlukan pengecekan lebih lanjut, tim kami akan menginformasikan estimasi waktu penyelesaian.',
     },
     {
-      question: 'Berapa lama proses permohonan?',
-      answer: 'Waktu proses bervariasi tergantung kelengkapan dokumen dan jenis produk yang dipilih. Kami berkomitmen untuk memberikan kepastian status permohonan dalam waktu yang wajar.',
+      question: 'Apa saja informasi yang bisa saya dapatkan?',
+      answer: 'Anda bisa mendapatkan informasi tentang layanan, panduan penggunaan, status permintaan, dan berbagai hal lainnya terkait penggunaan platform KrediOne.',
     },
     {
-      question: 'Dokumen apa saja yang diperlukan?',
-      answer: 'Persyaratan dokumen umumnya mencakup identitas diri, bukti penghasilan, dan dokumen pendukung lainnya. Detail lengkap dapat dikonfirmasi melalui tim layanan kami sebelum mengajukan permohonan.',
+      question: 'Apakah layanan bantuan ini tersedia setiap hari?',
+      answer: 'Tim bantuan kami aktif pada hari kerja, Senin hingga Jumat pukul 08.00 - 17.00 WIB. Untuk pertanyaan di luar jam operasional, kami akan merespons pada hari kerja berikutnya.',
     },
     {
-      question: 'Bagaimana cara menghubungi tim layanan?',
-      answer: 'Anda dapat menghubungi tim layanan kami melalui WhatsApp pada hari dan jam operasional. Kami siap memberikan informasi dan menjawab pertanyaan Anda.',
+      question: 'Bagaimana jika saya memiliki keluhan atau masalah?',
+      answer: 'Silakan sampaikan keluhan atau masalah Anda melalui WhatsApp atau email. Tim kami akan menindaklanjuti setiap laporan dengan serius dan memberikan update perkembangan penyelesaian.',
     },
   ],
   footerLinks: [
@@ -81,5 +81,8 @@ export const contactConfig = {
     { label: 'Kebijakan Privasi', href: '#' },
     { label: 'Hubungi Kami', href: '#' },
   ],
-  legalNotice: 'Informasi yang tersedia di halaman ini bersifat umum dan tidak merupakan penawaran atau komitmen resmi. Keputusan pemberian pinjaman tunduk pada evaluasi dan kebijakan yang berlaku.',
+  legalNotice: 'Pusat Layanan Bantuan KrediOne hadir untuk memberikan informasi dan dukungan kepada pengguna. Seluruh informasi yang disampaikan bersifat informatif.',
 }
+
+
+export { contactConfig }

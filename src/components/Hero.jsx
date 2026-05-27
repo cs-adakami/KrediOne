@@ -15,7 +15,7 @@ export default function Hero() {
           <div className="hero-content">
             <div className="hero-badge">
               <CheckCircle size={13} />
-              <span>Layanan Informasi Resmi</span>
+              <span>Pusat Bantuan Resmi</span>
             </div>
 
             <h1 id="hero-title" className="hero-title">
@@ -70,9 +70,9 @@ export default function Hero() {
               </div>
               <div className="hero-card-items">
                 {[
-                  'Informasi produk pinjaman',
-                  'Panduan proses pengajuan',
-                  'Status permohonan Anda',
+                  'Informasi layanan lengkap',
+                  'Panduan penggunaan',
+                  'Status permintaan Anda',
                   'Pertanyaan & konsultasi',
                 ].map((item, i) => (
                   <div key={i} className="hero-card-item">

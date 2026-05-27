@@ -15,7 +15,7 @@ export default function InfoCard() {
               Informasi Layanan Kami
             </h2>
             <p className="section-desc">
-              KrediOne berkomitmen memberikan informasi yang transparan dan akurat mengenai produk pinjaman kami.
+              KrediOne berkomitmen memberikan informasi yang transparan dan akurat untuk membantu kebutuhan Anda.
             </p>
 
             <div className="info-badges">
@@ -35,10 +35,10 @@ export default function InfoCard() {
 
             <div className="info-list">
               {[
-                'Informasi produk pinjaman yang jelas dan lengkap',
-                'Panduan pengajuan yang mudah dipahami',
-                'Transparansi biaya dan syarat ketentuan',
-                'Dukungan sepanjang proses pengajuan',
+                'Informasi layanan yang jelas dan lengkap',
+                'Panduan penggunaan yang mudah dipahami',
+                'Transparansi status dan perkembangan',
+                'Dukungan sepanjang proses',
               ].map((item, i) => (
                 <div key={i} className="info-list-item">
                   <div className="info-list-dot" aria-hidden="true">

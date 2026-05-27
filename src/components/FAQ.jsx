@@ -17,7 +17,7 @@ export default function FAQ() {
           </div>
           <h2 id="faq-title" className="section-title">Pertanyaan yang Sering Ditanyakan</h2>
           <p className="section-desc">
-            Temukan jawaban atas pertanyaan umum seputar layanan pinjaman kami.
+            Temukan jawaban atas pertanyaan umum seputar layanan bantuan kami.
           </p>
         </div>
 
