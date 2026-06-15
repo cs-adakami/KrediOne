@@ -1,7 +1,7 @@
 export const contactConfig = {
-  whatsappNumber: '62812345678',
+  whatsappNumber: '628811558464',
   whatsappMessage: 'Halo KrediOne, saya membutuhkan bantuan.',
-  displayPhone: '+62 812 345 678',
+  displayPhone: '+628811558464',
   email: 'bantuan@kredione.com',
   serviceName: 'KrediOne',
   serviceFullName: 'Pusat Layanan Bantuan KrediOne',
