@@ -83,6 +83,3 @@ export const contactConfig = {
   ],
   legalNotice: 'Pusat Layanan Bantuan KrediOne hadir untuk memberikan informasi dan dukungan kepada pengguna. Seluruh informasi yang disampaikan bersifat informatif.',
 }
-
-
-export { contactConfig }
