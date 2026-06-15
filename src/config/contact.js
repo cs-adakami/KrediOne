@@ -8,7 +8,7 @@ export const contactConfig = {
   pageTitle: 'Pusat Layanan Bantuan KrediOne',
   tagline: 'Pusat bantuan yang responsif dan terpercaya',
   description: 'Kami hadir untuk membantu menjawab pertanyaan, memberikan informasi, dan mendukung kebutuhan Anda dengan layanan yang profesional.',
-  operationalHours: 'Senin - Jumat, 08.00 - 17.00 WIB',
+  operationalHours: 'Setiap Hari, 24/7',
   address: 'Jakarta, Indonesia',
   stats: [
     { value: '50.000+', label: 'Pengguna Terlayani' },
