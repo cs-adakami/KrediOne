@@ -2,15 +2,12 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig(() => {
-  // Vercel menyediakan environment variable VERCEL_URL secara otomatis saat proses build.
-  // Jika VERCEL_URL tidak ada (misalnya saat dijalankan di lokal), kita gunakan URL default.
   const vercelUrl = process.env.VERCEL_URL;
-  const appUrl = vercelUrl ? `https://${vercelUrl}` : 'https://bantuan.kredione.com';
+  const appUrl = vercelUrl ? `https://${vercelUrl}` : 'http://localhost:3000';
 
   return {
     plugins: [
       react(),
-      // Plugin kustom untuk mengganti teks dinamis di index.html
       {
         name: 'html-transform',
         transformIndexHtml(html) {
